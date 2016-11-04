@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+Year,Results of Last election,Average of last 3 elections,Average of last 5 elections,Average of polls 1 mo before election (>0 = Repub),% of registered republicans,% of registered democrats,State unemployment rate,Party of governers
+2012,0,0.33,0.4,1.54,0.35,0.4,0.09,1
+2008,0,0.66,0.6,-2.92,0.36,0.42,0.06,1
+2004,1,0.66,0.8,1.6,0.37,0.41,0.05,1
+2000,1,0.66,0.8,-0.2,0.39,0.42,0.04,1
+1996,0,0.66,0.8,-1.8,0.4,0.4,0.05,0
+1992,1,1,0.8,1.6,0.41,0.4,0.08,0
+1988,1,1,0.8,2.5,0.39,0.53,0.06,1
+1984,1,0.66,0.8,1.1,0.34,0.6,0.08,0
+1980,1,0.66,0.6,1.2,0.29,0.63,0.07,0
+=======
+Year,Results of Last election,Average of last 3 elections,Average of last 5 elections,Average of polls 1 mo before election (>0 = Repub),% of registered republicans,% of registered democrats,State unemployment rate,Party of governers
+2012,0,0.33,0.4,1.54,0.35,0.4,0.09,1
+2008,0,0.66,0.6,-2.92,0.36,0.42,0.06,1
+2004,1,0.66,0.8,1.6,0.37,0.41,0.05,1
+2000,1,0.66,0.8,-0.2,0.39,0.42,0.04,1
+1996,0,0.66,0.8,-1.8,0.4,0.4,0.05,0
+1992,1,1,0.8,1.6,0.41,0.4,0.08,0
+1988,1,1,0.8,2.5,0.39,0.53,0.06,1
+1984,1,0.66,0.8,1.1,0.34,0.6,0.08,0
+1980,1,0.66,0.6,1.2,0.29,0.63,0.07,0
+>>>>>>> 6b7f67e5c85747354cf8c8924176d441a10ccfcc
+1976,0,0.66,0.6,-1.5,0.27,0.64,0.08,0

@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+<<<<<<< HEAD
+0 [label="Polls <= 0.2\nentropy = 0.9183\nsamples = 42\nvalue = [28, 14]"] ;
+1 [label="entropy = 0.0\nsamples = 28\nvalue = [28, 0]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="entropy = 0.0\nsamples = 14\nvalue = [0, 14]"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+=======
+0 [label="Average of last 5 elections <= 0.7\nentropy = 0.971\nsamples = 10\nvalue = [4, 6]"] ;
+1 [label="State unemployment rate <= 0.075\nentropy = 0.8113\nsamples = 4\nvalue = [3, 1]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="% of registered republicans <= 0.325\nentropy = 1.0\nsamples = 2\nvalue = [1, 1]"] ;
+1 -> 2 ;
+3 [label="entropy = 0.0\nsamples = 1\nvalue = [0, 1]"] ;
+2 -> 3 ;
+4 [label="entropy = 0.0\nsamples = 1\nvalue = [1, 0]"] ;
+2 -> 4 ;
+5 [label="entropy = 0.0\nsamples = 2\nvalue = [2, 0]"] ;
+1 -> 5 ;
+6 [label="Average of polls 1 mo before election (>0 = Repub) <= -1.0\nentropy = 0.65\nsamples = 6\nvalue = [1, 5]"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="entropy = 0.0\nsamples = 1\nvalue = [1, 0]"] ;
+6 -> 7 ;
+8 [label="entropy = 0.0\nsamples = 5\nvalue = [0, 5]"] ;
+6 -> 8 ;
+>>>>>>> 6b7f67e5c85747354cf8c8924176d441a10ccfcc
+}
